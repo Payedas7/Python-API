@@ -23,7 +23,7 @@ Cities with latitude nearer to the Equator is cloudy compare to others but place
 
 * Latitude Vs. Wind Speed:
 
-
+![fig4_latitude_vs_wind_speed_plot](https://user-images.githubusercontent.com/41707119/46521964-40cdc980-c84f-11e8-9260-e68ca361b606.png)
 
 Cities nearer to equator is higher in temperature and in matter of wind speed , those particular places are not as high as poles.
 
