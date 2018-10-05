@@ -9,7 +9,7 @@ There is a relationship between latitude and temperature around the world, as te
 
 * Latitude Vs. Humidity:
 
-
+![fig2_latitude_vs_humidity_plot](https://user-images.githubusercontent.com/41707119/46521911-10862b00-c84f-11e8-8c69-b12103ae566e.png)
 
 HumidityÊchanges when temperatures change. Because warm airÊcanÊhold more water vapor than cool air, relativeÊhumidityÊfalls when theÊtemperatureÊrises if no moisture is added to the air. As we know from the first graph that temperatures are typically warmer approaching the Equator and cooler approaching the Poles so the humidity higher in the places near Equator and lesser towards Poles.
 * Latitude Vs. Cloudiness:
